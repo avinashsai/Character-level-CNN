@@ -10,12 +10,19 @@ I have used a dictionary size of 26 and considered 50 as the maximum character s
  
  # Usage
  1. Install dependencies using
+ 
  ```pip install -r requirements.txt```
+ 
  2. clone the repository using 
+ 
  ``` git clone https://github.com/avinashsai/Character-level-CNN.git```
+ 
  3. Change the folder using
+ 
  ```cd Models```
+ 
  4. Run the main file using
+ 
  ```python3 character_level_cnn.py```
  
  
