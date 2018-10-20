@@ -23,6 +23,6 @@ I have used a dictionary size of 26 and considered 50 as the maximum character s
  
  4. Run the main file using
  
- ```python3 character_level_cnn.py```
+ ```python character_level_cnn.py```
  
  
